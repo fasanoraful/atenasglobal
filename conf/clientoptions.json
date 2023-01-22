@@ -4,7 +4,6 @@
         "lootChannelOpen": false,
         "openChannels": [
             3,
-            5,
             7
         ]
     },
@@ -3048,7 +3047,7 @@
         "lightEffectsEnabled": false,
         "lightLevelSeparatorLevel": 0.800000011920929,
         "linkCopyWarningEnabled": true,
-        "loginEmailAddress": "victorfasanoraful@gmail.com",
+        "loginEmailAddress": "",
         "lootSchemeIndex": 0,
         "mapWindowHeight": 794,
         "marketShowLockerOnly": false,
@@ -3072,7 +3071,7 @@
         "playerShowName": true,
         "quickLogin": true,
         "quickLootAllCorpsesOnCoordinateEnabled": true,
-        "rememberLoginEmail": true,
+        "rememberLoginEmail": false,
         "rendererIndex": 0,
         "rotateWithAlt": false,
         "rotateWithCtrl": true,

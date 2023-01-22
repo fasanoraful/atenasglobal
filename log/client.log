@@ -3998,3 +3998,31 @@
 [ 2023-01-16 23:32:00,992 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://191.96.224.41/login.php") ) due to too many retries.
 [ 2023-01-21 12:29:03,186 ] Asset loading complete
 [ 2023-01-21 12:45:02,597 ] Asset loading complete
+[ 2023-01-21 14:50:46,921 ] Asset loading complete
+[ 2023-01-21 14:50:52,023 ] News query failed: "Unrecognized event news."
+[ 2023-01-21 14:50:54,268 ] BattlEye: "Initialized (v1.246)"
+[ 2023-01-21 14:50:54,268 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 2023-01-21 14:50:54,269 ] BattlEye: "Restarting client is necessary, update required"
+[ 2023-01-21 14:50:54,449 ] Request connection to gameserver  "tcp://191.96.224.41:7172"  (unprotected:  "tcp://191.96.224.41:7172" )  requested (Charakter "Victor" )
+[ 2023-01-21 14:50:54,488 ] Request connection to gameserver  "tcp://191.96.224.41:7172" "Atenas"
+[ 2023-01-21 14:50:54,521 ] Connected to gameserver  "tcp://191.96.224.41:7172" "Atenas"
+[ 2023-01-21 14:50:56,947 ] News query failed: "Unrecognized event news."
+[ 2023-01-21 14:53:04,357 ] Connection to gameserver  "tcp://191.96.224.41:7172" "Atenas"  was disconnected ( "The remote host closed the connection" )
+[ 2023-01-21 14:53:04,430 ] Disconnected from gameserver
+[ 2023-01-21 14:53:31,814 ] Request connection to gameserver  "tcp://191.96.224.41:7172"  (unprotected:  "tcp://191.96.224.41:7172" )  requested (Charakter "Victor" )
+[ 2023-01-21 14:53:31,829 ] Request connection to gameserver  "tcp://191.96.224.41:7172" "Atenas"
+[ 2023-01-21 14:53:31,862 ] Connected to gameserver  "tcp://191.96.224.41:7172" "Atenas"
+[ 2023-01-21 14:53:31,895 ] News query failed: "Unrecognized event news."
+[ 2023-01-21 14:53:32,729 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://191.96.224.41/login.php") ) due to too many retries.
+[ 2023-01-21 14:53:34,319 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073785173 found"
+[ 2023-01-21 14:54:34,242 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://191.96.224.41/login.php") ) due to too many retries.
+[ 2023-01-21 14:54:34,445 ] Connection to gameserver  "tcp://191.96.224.41:7172" "Atenas"  was disconnected ( "The remote host closed the connection" )
+[ 2023-01-21 14:54:34,517 ] Disconnected from gameserver
+[ 2023-01-21 14:54:34,850 ] Request connection to gameserver  "tcp://191.96.224.41:7172"  (unprotected:  "tcp://191.96.224.41:7172" )  requested (Charakter "Victor" )
+[ 2023-01-21 14:54:34,870 ] Request connection to gameserver  "tcp://191.96.224.41:7172" "Atenas"
+[ 2023-01-21 14:54:34,903 ] Connected to gameserver  "tcp://191.96.224.41:7172" "Atenas"
+[ 2023-01-21 14:54:35,786 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://191.96.224.41/login.php") ) due to too many retries.
+[ 2023-01-21 14:55:08,054 ] Connection to gameserver  "tcp://191.96.224.41:7172" "Atenas"  was disconnected ( "The remote host closed the connection" )
+[ 2023-01-21 14:55:08,135 ] Disconnected from gameserver
+[ 2023-01-21 14:55:08,246 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("http://191.96.224.41/login.php") ) due to too many retries.
+[ 2023-01-22 00:48:41,292 ] Asset loading complete
